@@ -8,7 +8,9 @@
  
  
 function origami_evergreen_enqueue_scripts(){
-
+	wp_enqueue_style('origami-original', get_template_directory_uri().'/style.css');
+	wp_enqueue_style('origami-original', get_template_directory_uri().'/uikit/css/uikit.gradient.css');
+	wp_enqueue_script('origami-evergreen-menu', get_stylesheet_directory_uri().'/js/menu.js', array('jquery'));
 }
 add_action('wp_enqueue_scripts', 'origami_evergreen_enqueue_scripts', 9);
 
