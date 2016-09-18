@@ -19,7 +19,7 @@ Tags: brown, light, yellow, one-column, flexible-width, custom-background, custo
 }
 #main-menu-wrapper > div > ul {
   margin-bottom: -30px;
-  margin-top: 30px;
+  margin-top: 5px;
   background: #2A2319;
   background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #2A2319), color-stop(1, #2A2319));
   background: -ms-linear-gradient(bottom, #2A2319, #2A2319);
@@ -287,5 +287,4 @@ h1.archive-title a {
 }
 #footer .copyright {
   color: #544f45;
-  margin-top: 30px;
 }

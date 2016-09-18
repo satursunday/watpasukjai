@@ -60,7 +60,7 @@ function siteorigin_mobilenav_nav_filter($nav_menu, $args){
 	$nav_menu .= '<'. $args->container . $id . $class . '>';
 
 	$text = array(
-		'navigate' => __( 'Menu', 'origami' ),
+		'navigate' => __( 'เมนู', 'origami' ),
 		'back' => __( 'Back', 'origami' ),
 		'close' => __( 'Close', 'origami' ),
 	);

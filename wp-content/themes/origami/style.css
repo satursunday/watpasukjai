@@ -789,13 +789,13 @@ a img.aligncenter {
   margin-left: 0.75em; }
 
 #footer {
-  margin-bottom: 35px;
+  margin-bottom: 0px;
   color: #888;
   font-size: 0.85em;
   border: transparent;
   border-width: 0 1px;
   color: #555555;
-  padding: 0px 5px;
+  padding: 20px 5px;
   text-align: center; }
   #footer .copyright {
     margin-bottom: 0.75em; }
