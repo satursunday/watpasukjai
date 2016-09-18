@@ -13,7 +13,7 @@
 
 <?php do_action('origami_top'); ?>
 
-<div class="container">
+<div class="container newClass">
 
 	<?php do_action('origami_before_page_container') ?>
 
