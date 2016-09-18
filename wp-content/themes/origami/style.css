@@ -459,7 +459,8 @@ a img.aligncenter {
     color: #36659f; }
   .content p, .content ul, .content ol, .content dl {
     line-height: 1.6em;
-    margin: 2em 0; }
+    /* margin: 2em 0; */
+    }
   .content ul li {
     display: list-item;
     line-height: 1.75em;
