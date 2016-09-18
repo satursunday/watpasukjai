@@ -14,4 +14,6 @@ jQuery(function($){
         .mouseleave(function(){
             $(this).find('> ul').fadeOut('fast');
         });
+        
+        console.log("test");
 });
