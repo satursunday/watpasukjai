@@ -8,7 +8,7 @@
 
 	<?php wp_head(); ?>
 	
-	<link rel="stylesheet" href="uikit/css/uikit.gradient.min.css" />
+	<link rel="stylesheet" href="wp-content/themes/origami/uikit/css/uikit.gradient.min.css" />
 </head>
 
 <body <?php body_class() ?>>
