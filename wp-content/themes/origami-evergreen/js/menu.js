@@ -15,5 +15,4 @@ jQuery(function($){
             $(this).find('> ul').fadeOut('fast');
         });
         
-        console.log("test");
 });
