@@ -17,7 +17,7 @@
 
 	<?php do_action('origami_before_page_container') ?>
 
-	<div id="page-container">
+	<div id="page-container" class="newclass">
 
 		<?php do_action('origami_top_page_container') ?>
 
