@@ -1006,6 +1006,10 @@ h1.archive-title {
   #infinite-handle span {
     background: none;
     color: #505050; }
+    
+ #top-bar-menu {
+    padding-left: 0px;
+ }
 
 .infinite-loader .spinner {
   left: 50% !important; }
