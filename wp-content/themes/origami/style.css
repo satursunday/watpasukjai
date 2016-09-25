@@ -1011,11 +1011,5 @@ h1.archive-title {
     padding-left: 0px;
  }
  
- .custom-nav-li {
-    background: #87a55a; 
-    color: #2A2319; 
-    text-shadow: 0 0px #2A2319;
- }
-
 .infinite-loader .spinner {
   left: 50% !important; }
