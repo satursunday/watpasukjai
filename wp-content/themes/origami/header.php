@@ -10,6 +10,7 @@
 	
 	<script src="wp-content/themes/origami/uikit/js/uikit.js"></script>
     <script src="wp-content/themes/origami/uikit/js/components/slideshow.min.js"></script>
+    <script src="wp-content/themes/origami/uikit/js/components/lightbox.min.js"></script>
 	
 	<link rel="stylesheet" href="wp-content/themes/origami/uikit/css/uikit.gradient.min.css" />
     <link rel="stylesheet" href="wp-content/themes/origami/uikit/css/components/slideshow.gradient.min.css">
