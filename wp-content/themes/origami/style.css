@@ -521,16 +521,16 @@ a img.aligncenter {
     padding-left: 1.5em;
     margin-bottom: 1.5em; }
   .content h1, .content h2, .content h3, .content h4, .content h5, .content h6, .content strong {
-    color: #404040;
-    margin: 1.5em 0; }
+    /*color: #404040;
+    margin: 1.5em 0;*/ }
   .content h1 {
     font-size: 24px; }
   .content h2 {
     font-size: 20.4px; }
   .content h3 {
-    font-size: 18.48px; }
+    /*font-size: 18.48px;*/ }
   .content h4 {
-    font-size: 16.32px; }
+    /*font-size: 16.32px;*/ }
   .content h5 {
     font-size: 13.92px; }
   .content h6 {
