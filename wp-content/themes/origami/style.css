@@ -504,7 +504,7 @@ a img.aligncenter {
     height: auto; }
   .content hr {
     border: 0px;
-    border-top: 1px solid #CCC; }
+    border-top: 1px solid #2A2319; }
   .content sup, .content sub {
     font-size: 10px;
     height: 0;
@@ -1009,6 +1009,12 @@ h1.archive-title {
     
  #top-bar-menu {
     padding-left: 0px;
+ }
+ 
+ .custom-nav-li {
+    background: #87a55a; 
+    color: #2A2319; 
+    text-shadow: 0 0px #2A2319;
  }
 
 .infinite-loader .spinner {
